@@ -1,16 +1,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Kanika+Dogra.+Welcome+to+my+Profile!" align="middle" alt="Welcome animated typed out">
 
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af036d1ba18e94b10a112dc0e730/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af036d1ba18e94b10a112dc0e730/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"  />
 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/_iakshat_" target="blank" > <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+  <a href="kanika2005dogra@gmail.com" target="blank" > <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://x.com/Kanikadogra255" target="blank" ><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
+  <a href="https://www.linkedin.com/in/kanika-dogra/" target="blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://leetcode.com/u/kanika2005dogra/" target="blank" ><img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" height="35" alt="leetcode logo"  /></a>
+  <a href="https://huggingface.co/30Kanika" target="blank" ><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" height="35" alt="hugging face logo"  /></a>
+  <a href="https://www.kaggle.com/kanikadogra9" target="blank" ><img style="border:solid" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="30" alt="kaggle logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/kanika2005dogra" target="blank" ><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
+  </div>
 
 
 ### `Languages`
