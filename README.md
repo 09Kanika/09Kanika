@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/kanika-dogra/" target="blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://leetcode.com/u/kanika2005dogra/" target="blank" ><img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" height="35" alt="leetcode logo"  /></a>
   <a href="https://huggingface.co/30Kanika" target="blank" ><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" height="35" alt="hugging face logo"  /></a>
-  <a href="https://www.kaggle.com/kanikadogra9" target="blank" ><img style="border:solid" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="30" alt="kaggle logo"  /></a>
+  <a href="https://www.kaggle.com/kanikadogra9" target="blank" ><img style="border:solid" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" height="30" alt="kaggle logo"  /></a>
   <a href="https://www.hackerrank.com/profile/kanika2005dogra" target="blank" ><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
   </div>
 
