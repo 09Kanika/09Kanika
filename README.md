@@ -41,7 +41,7 @@
 
 <div align="center">
   
-[![Query.jpg](https://github-readme-stats.vercel.app/api/pin/?username=09Kanika&repo=Query.jpg&theme=vue-dark&show_owner=true)](https://github.com/09Kanika/Query.jpg)[![BriefComm](https://github-readme-stats.vercel.app/api/pin/?username=09Kanika&repo=BriefComm&theme=vue-dark&show_owner=true)](https://github.com/09Kanika/BriefComm)
+[![BriefComm](https://github-readme-stats.vercel.app/api/pin/?username=09Kanika&repo=BriefComm&theme=vue-dark&show_owner=true)](https://github.com/09Kanika/BriefComm)
 </div>
 </br>
 
