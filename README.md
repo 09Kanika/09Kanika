@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Kanika+Dogra.+Welcome+to+my+Profile!" align="middle" alt="Welcome animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&height=50&lines=I'm+Kanika+Dogra.+Welcome+to+my+Profile!" align="middle" alt="Welcome animated typed out">
 </br>
 
 
